@@ -1,0 +1,10 @@
+[1/31/2018 10:26:34 PM] Refreshed Commands in 0.035 seconds
+[1/31/2018 10:26:44 PM] Pressed simple button!
+[1/31/2018 10:26:48 PM] Pressed red button!
+[1/31/2018 10:26:51 PM] Pressed button/executed-command!
+[1/31/2018 10:27:02 PM] Tweened vector3 value: (15.0, 200.0, 2.0)
+[1/31/2018 10:27:10 PM] Tweened vector3 value: (5.8, 77.3, 0.8)
+[1/31/2018 10:28:01 PM] ~ simplemessge
+[1/31/2018 10:28:01 PM] Unknown command: simplemessge
+[1/31/2018 10:28:18 PM] Tweened float value: 100
+[1/31/2018 10:28:28 PM] Pressed button/executed-command!

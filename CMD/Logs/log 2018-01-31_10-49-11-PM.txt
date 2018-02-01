@@ -1,0 +1,26 @@
+[1/31/2018 10:42:07 PM] Refreshed Commands in 0.029 seconds
+[1/31/2018 10:42:38 PM] ~ simplecommand
+[1/31/2018 10:42:38 PM] Unknown command: simplecommand
+[1/31/2018 10:42:43 PM] ~ SimpleCommand
+[1/31/2018 10:42:43 PM] Executed a simple command!
+[1/31/2018 10:43:48 PM] ~ SimpleCalculationCommand(1, (System.Single : 2, System.String : 3))
+[1/31/2018 10:43:48 PM] Unknown command: SimpleCalculationCommand(1,
+[1/31/2018 10:44:07 PM] Parameter mismatch for command: SimpleCalculationCommand
+Types expected: (Int32, Int32, Int32)
+Types given: (Single, Single, Int32)
+[1/31/2018 10:44:30 PM] Parameter mismatch for command: SimpleCalculationCommand
+Types expected: (Int32, Int32, Int32)
+Types given: ()
+[1/31/2018 10:44:43 PM] ~ SimpleCalculationCommand(1,2,3)
+[1/31/2018 10:44:43 PM] Unknown command: SimpleCalculationCommand(1,2,3)
+[1/31/2018 10:48:08 PM] ~ SimpleCalculationCommand (System.Int32 : -1, System.Int32 : -2, System.Int32 : -3)
+[1/31/2018 10:48:08 PM] 9
+[1/31/2018 10:48:25 PM] Parameter mismatch for command: SimpleCalculationCommand
+Types expected: (Int32, Int32, Int32)
+Types given: (Int32, Int32, String)
+[1/31/2018 10:48:43 PM] ~ SimpleCalculationCommand (System.Int32 : -1, System.Int32 : -2, System.Int32 : -5)
+[1/31/2018 10:48:43 PM] 15
+[1/31/2018 10:48:56 PM] Tweened vector3 value: (15.0, 200.0, 2.0)
+[1/31/2018 10:49:03 PM] Pressed button/executed-command!
+[1/31/2018 10:49:07 PM] Pressed red button!
+[1/31/2018 10:49:08 PM] Pressed simple button!

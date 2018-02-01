@@ -1,0 +1,400 @@
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:55 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:56 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:57 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[1/31/2018 11:11:58 PM] MissingReferenceException: The object of type 'ThirdPersonPlayer' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.

@@ -1,0 +1,14 @@
+[1/31/2018 10:19:24 PM] Device name: JESSE-DESKTOP
+[1/31/2018 10:19:24 PM] Device model: System Product Name (System manufacturer)
+[1/31/2018 10:19:24 PM] Device type: Desktop
+[1/31/2018 10:19:24 PM] Operating system: Windows 10  (10.0.0) 64bit
+[1/31/2018 10:19:24 PM] System memory: 14078 MB
+[1/31/2018 10:19:24 PM] Graphics memory: 1657MB
+[1/31/2018 10:19:24 PM] CPU cores: 6 cores
+[1/31/2018 10:19:24 PM] CPU fequency: 4000MHz
+[1/31/2018 10:19:24 PM] Graphics API: Direct3D11
+[1/31/2018 10:19:24 PM] Graphics device: ATI Radeon 3000 Graphics
+[1/31/2018 10:19:36 PM] CMD+ | ver: 1.1.0.0
+[1/31/2018 10:19:36 PM] By: Daan Ruiter
+[1/31/2018 10:19:36 PM] daanruiter.net
+[1/31/2018 10:19:36 PM] contact@daanruiter.net

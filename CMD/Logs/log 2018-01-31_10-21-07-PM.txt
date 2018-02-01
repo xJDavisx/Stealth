@@ -1,0 +1,27 @@
+[1/31/2018 10:20:02 PM] Refreshed Commands in 0.031 seconds
+[1/31/2018 10:20:36 PM] About() - About the console
+[1/31/2018 10:20:36 PM] Clear() - Clear the console log entries
+[1/31/2018 10:20:36 PM] List() - List all commands
+[1/31/2018 10:20:36 PM] ListRenderables() - List all current renderables
+[1/31/2018 10:20:36 PM] ListSettings() - Shows all loaded settings
+[1/31/2018 10:20:36 PM] RefreshCommands() - Searches through the CMD assembly for commands
+[1/31/2018 10:20:36 PM] SaveLogs(String fileName) - Saves all log entries to a txt file
+[1/31/2018 10:20:36 PM] SaveSettings() - Save all settings to their respective XML files
+[1/31/2018 10:20:36 PM] SetSetting(String identifier, Object data, String settingFile) - Set the value of an existing setting or create a new entry if it doesn't exist yet
+[1/31/2018 10:20:36 PM] SystemInfo() - Displays information about the system & hardware
+[1/31/2018 10:20:36 PM] About() - About the console
+[1/31/2018 10:20:36 PM] Clear() - Clear the console log entries
+[1/31/2018 10:20:36 PM] List() - List all commands
+[1/31/2018 10:20:36 PM] ListRenderables() - List all current renderables
+[1/31/2018 10:20:36 PM] ListSettings() - Shows all loaded settings
+[1/31/2018 10:20:36 PM] RefreshCommands() - Searches through the CMD assembly for commands
+[1/31/2018 10:20:36 PM] SaveLogs(String fileName) - Saves all log entries to a txt file
+[1/31/2018 10:20:36 PM] SaveSettings() - Save all settings to their respective XML files
+[1/31/2018 10:20:36 PM] SetSetting(String identifier, Object data, String settingFile) - Set the value of an existing setting or create a new entry if it doesn't exist yet
+[1/31/2018 10:20:36 PM] SystemInfo() - Displays information about the system & hardware
+[1/31/2018 10:20:45 PM] ~ /about
+[1/31/2018 10:20:45 PM] Unknown command: /about
+[1/31/2018 10:20:50 PM] ~ /about()
+[1/31/2018 10:20:50 PM] Unknown command: /about()
+[1/31/2018 10:20:56 PM] ~ /about;
+[1/31/2018 10:20:56 PM] Unknown command: /about;

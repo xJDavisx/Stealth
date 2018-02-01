@@ -1,0 +1,4 @@
+[1/31/2018 10:52:56 PM] Refreshed Commands in 0.028 seconds
+[1/31/2018 10:53:02 PM] Pressed button/executed-command!
+[1/31/2018 10:53:30 PM] ~ CombinedCommandButton
+[1/31/2018 10:53:30 PM] Pressed button/executed-command!

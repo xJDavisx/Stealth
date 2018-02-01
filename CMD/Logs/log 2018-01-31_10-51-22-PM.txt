@@ -1,0 +1,17 @@
+[1/31/2018 10:49:39 PM] Refreshed Commands in 0.028 seconds
+[1/31/2018 10:50:01 PM] ~ SimpleCommand
+[1/31/2018 10:50:01 PM] Executed a simple command!
+[1/31/2018 10:50:33 PM] ~ List
+[1/31/2018 10:50:33 PM] Unknown command: List
+[1/31/2018 10:50:40 PM] ~ ListCommand
+[1/31/2018 10:50:40 PM] Unknown command: ListCommand
+[1/31/2018 10:50:45 PM] ~ ListCommands
+[1/31/2018 10:50:45 PM] Unknown command: ListCommands
+[1/31/2018 10:50:49 PM] ~ ListCommands
+[1/31/2018 10:50:49 PM] Unknown command: ListCommands
+[1/31/2018 10:50:51 PM] ~ help
+[1/31/2018 10:50:51 PM] Unknown command: help
+[1/31/2018 10:50:53 PM] ~ Help
+[1/31/2018 10:50:53 PM] Unknown command: Help
+[1/31/2018 10:51:05 PM] ~ CombinedCommandButton
+[1/31/2018 10:51:05 PM] Pressed button/executed-command!

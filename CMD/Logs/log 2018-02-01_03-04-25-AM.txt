@@ -1,0 +1,400 @@
+[2/1/2018 3:04:16 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:16 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:16 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:16 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:16 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:16 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:16 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:17 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:18 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:19 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:20 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:21 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:22 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:23 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:24 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+[2/1/2018 3:04:25 AM] MissingReferenceException: The object of type 'GameObject' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.

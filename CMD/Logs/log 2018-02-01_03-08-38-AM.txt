@@ -1,0 +1,45 @@
+[2/1/2018 3:06:41 AM] Refreshed Commands in 0.029 seconds
+[2/1/2018 3:06:42 AM] AudioManager used: GameManager.
+Instance ID: 10708
+[2/1/2018 3:06:42 AM] EnemyStateManager used: GameManager.
+Instance ID: 10712
+[2/1/2018 3:06:42 AM] ConsoleManager used: GameManager.
+Instance ID: 10714
+[2/1/2018 3:06:42 AM] BGMManager used: Audio Source.
+Instance ID: 10804
+[2/1/2018 3:06:42 AM] GameUI used: Canvas.
+Instance ID: 10946
+[2/1/2018 3:06:42 AM] SettingsMenu used: Canvas.
+Instance ID: 10958
+[2/1/2018 3:06:42 AM] ThirdPersonCameraController used: Main Camera.
+Instance ID: 11308
+[2/1/2018 3:06:57 AM] Guard (1) delt 12.5659 Damage to Player! Player health is at 87.4341!
+[2/1/2018 3:06:57 AM] Guard (1) delt 14.49223 Damage to Player! Player health is at 72.94186!
+[2/1/2018 3:06:57 AM] Guard (1) delt 6.032035 Damage to Player! Player health is at 66.90983!
+[2/1/2018 3:06:57 AM] Guard (1) delt 13.76799 Damage to Player! Player health is at 53.14184!
+[2/1/2018 3:06:57 AM] Guard (5) delt 9.784472 Damage to Player! Player health is at 43.35737!
+[2/1/2018 3:06:58 AM] Guard (1) delt 10.37566 Damage to Player! Player health is at 32.9817!
+[2/1/2018 3:06:58 AM] Guard (5) delt 8.957941 Damage to Player! Player health is at 24.02376!
+[2/1/2018 3:06:58 AM] Guard (1) delt 5.280277 Damage to Player! Player health is at 18.74349!
+[2/1/2018 3:06:58 AM] Guard (5) delt 10.6074 Damage to Player! Player health is at 8.136086!
+[2/1/2018 3:06:58 AM] Guard (1) delt 6.457311 Damage to Player! Player health is at 1.678774!
+[2/1/2018 3:06:58 AM] Guard (5) delt 7.267066 Damage to Player! Player health is at 0!
+[2/1/2018 3:07:00 AM] AudioManager used: GameManager.
+Instance ID: 30568
+[2/1/2018 3:07:00 AM] EnemyStateManager used: GameManager.
+Instance ID: 30572
+[2/1/2018 3:07:00 AM] ConsoleManager used: GameManager.
+Instance ID: 30574
+[2/1/2018 3:07:00 AM] BGMManager used: Audio Source.
+Instance ID: 30764
+[2/1/2018 3:07:00 AM] GameUI used: Canvas.
+Instance ID: 30984
+[2/1/2018 3:07:00 AM] SettingsMenu used: Canvas.
+Instance ID: 30996
+[2/1/2018 3:07:00 AM] ThirdPersonCameraController used: Main Camera.
+Instance ID: 31534
+[2/1/2018 3:08:11 AM] Guard (1) delt 12.29577 Damage to Player! Player health is at 87.70422!
+[2/1/2018 3:08:12 AM] Guard (1) delt 5.25348 Damage to Player! Player health is at 82.45074!
+[2/1/2018 3:08:12 AM] Guard (1) delt 8.511191 Damage to Player! Player health is at 73.93955!
+[2/1/2018 3:08:12 AM] Guard (1) delt 12.38409 Damage to Player! Player health is at 61.55546!
+[2/1/2018 3:08:12 AM] Guard (1) delt 5.488637 Damage to Player! Player health is at 56.06682!

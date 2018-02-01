@@ -1,0 +1,5 @@
+[1/31/2018 10:16:03 PM] Refreshed Commands in 0.029 seconds
+[1/31/2018 10:16:27 PM] ~ help
+[1/31/2018 10:16:27 PM] Unknown command: help
+[1/31/2018 10:16:32 PM] ~ /help
+[1/31/2018 10:16:32 PM] Unknown command: /help

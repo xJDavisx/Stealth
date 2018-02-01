@@ -1,0 +1,17 @@
+[1/31/2018 11:14:39 PM] Refreshed Commands in 0.029 seconds
+[1/31/2018 11:14:40 PM] AudioManager used: GameManager.
+Instance ID: 17182
+[1/31/2018 11:14:40 PM] EnemyStateManager used: GameManager.
+Instance ID: 17186
+[1/31/2018 11:14:40 PM] ConsoleManager used: GameManager.
+Instance ID: 17188
+[1/31/2018 11:14:40 PM] BGMManager used: Audio Source.
+Instance ID: 17278
+[1/31/2018 11:14:40 PM] GameUI used: Canvas.
+Instance ID: 17420
+[1/31/2018 11:14:40 PM] SettingsMenu used: Canvas.
+Instance ID: 17432
+[1/31/2018 11:14:40 PM] ThirdPersonCameraController used: Main Camera.
+Instance ID: 17782
+[1/31/2018 11:15:20 PM] ~ Alert
+[1/31/2018 11:15:30 PM] NotImplementedException: The method or operation is not implemented.
