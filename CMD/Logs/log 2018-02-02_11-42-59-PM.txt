@@ -1,0 +1,41 @@
+[2/2/2018 11:42:43 PM] Refreshed Commands in 0.028 seconds
+[2/2/2018 11:42:43 PM] AudioManager used: GameManager.
+Instance ID: 10708
+[2/2/2018 11:42:43 PM] EnemyStateManager used: GameManager.
+Instance ID: 10712
+[2/2/2018 11:42:43 PM] ConsoleManager used: GameManager.
+Instance ID: 10714
+[2/2/2018 11:42:43 PM] BGMManager used: Audio Source.
+Instance ID: 10804
+[2/2/2018 11:42:43 PM] GameUI used: Canvas.
+Instance ID: 10946
+[2/2/2018 11:42:43 PM] SettingsMenu used: Canvas.
+Instance ID: 10958
+[2/2/2018 11:42:43 PM] ThirdPersonCameraController used: Main Camera.
+Instance ID: 11308
+[2/2/2018 11:42:52 PM] Guard (3) delt 10.25737 Damage to Player! Player health is at 89.74262!
+[2/2/2018 11:42:52 PM] Guard (3) delt 8.443495 Damage to Player! Player health is at 81.29913!
+[2/2/2018 11:42:52 PM] Guard (3) delt 5.598072 Damage to Player! Player health is at 75.70106!
+[2/2/2018 11:42:53 PM] Guard (3) delt 13.41207 Damage to Player! Player health is at 62.28899!
+[2/2/2018 11:42:53 PM] Guard (3) delt 11.66372 Damage to Player! Player health is at 50.62527!
+[2/2/2018 11:42:54 PM] Guard (3) delt 12.80794 Damage to Player! Player health is at 37.81732!
+[2/2/2018 11:42:54 PM] Guard (5) delt 12.48402 Damage to Player! Player health is at 25.3333!
+[2/2/2018 11:42:54 PM] Guard (3) delt 12.37868 Damage to Player! Player health is at 12.95462!
+[2/2/2018 11:42:54 PM] Guard (1) delt 10.62454 Damage to Player! Player health is at 2.330079!
+[2/2/2018 11:42:54 PM] Guard (5) delt 9.622075 Damage to Player! Player health is at 0!
+[2/2/2018 11:42:54 PM] Guard (3) delt 8.154422 Damage to Player! Player health is at 0!
+[2/2/2018 11:42:54 PM] Guard (1) delt 11.85286 Damage to Player! Player health is at 0!
+[2/2/2018 11:42:57 PM] AudioManager used: GameManager.
+Instance ID: 18828
+[2/2/2018 11:42:57 PM] EnemyStateManager used: GameManager.
+Instance ID: 18832
+[2/2/2018 11:42:57 PM] ConsoleManager used: GameManager.
+Instance ID: 18834
+[2/2/2018 11:42:57 PM] BGMManager used: Audio Source.
+Instance ID: 18956
+[2/2/2018 11:42:57 PM] GameUI used: Canvas.
+Instance ID: 19182
+[2/2/2018 11:42:57 PM] SettingsMenu used: Canvas.
+Instance ID: 19194
+[2/2/2018 11:42:57 PM] ThirdPersonCameraController used: Main Camera.
+Instance ID: 19818

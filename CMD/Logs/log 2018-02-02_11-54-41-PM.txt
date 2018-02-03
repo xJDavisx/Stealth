@@ -1,0 +1,16 @@
+[2/2/2018 11:52:48 PM] Refreshed Commands in 0.028 seconds
+[2/2/2018 11:52:49 PM] AudioManager used: GameManager.
+Instance ID: 10708
+[2/2/2018 11:52:49 PM] EnemyStateManager used: GameManager.
+Instance ID: 10712
+[2/2/2018 11:52:49 PM] ConsoleManager used: GameManager.
+Instance ID: 10714
+[2/2/2018 11:52:49 PM] BGMManager used: Audio Source.
+Instance ID: 10804
+[2/2/2018 11:52:49 PM] GameUI used: Canvas.
+Instance ID: 10946
+[2/2/2018 11:52:49 PM] SettingsMenu used: Canvas.
+Instance ID: 10958
+[2/2/2018 11:52:49 PM] ThirdPersonCameraController used: Main Camera.
+Instance ID: 11308
+[2/2/2018 11:54:39 PM] Guard (4) delt 10.6137 Damage to Player! Player health is at 89.3863!

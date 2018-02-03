@@ -16,7 +16,7 @@ namespace Jesse.Character
 
 		protected override void Update()
 		{
-			Vector3 inputDirection = new Vector3(Input.GetAxisRaw("Horizontal"), 0, Input.GetAxisRaw("Vertical")).normalized;
+			base.Update();
 			Vector3 direction = camera.transform.TransformDirection(inputDirection);
 
 			float inputMagnitude = direction.magnitude;
@@ -25,7 +25,7 @@ namespace Jesse.Character
 			float targetAngle = Mathf.Atan2(direction.x, direction.z) * Mathf.Rad2Deg;
 			angle = Mathf.LerpAngle(angle, targetAngle, Time.deltaTime * turnSpeed * inputMagnitude);
 
-			velocity = transform.forward * moveSpeed * smoothInputMagnitude;
+			velocity = transform.forward * Speed * smoothInputMagnitude;
 		}
 
 		protected override void OnDestroy()

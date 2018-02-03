@@ -4,11 +4,29 @@ using System.Linq;
 using UnityEngine;
 namespace Jesse.AI
 {
-	public class Waypoint : MonoBehaviour
+	public class Waypoint
 	{
-		List<Waypoint> AllWaypoints = new List<Waypoint>();
+		static List<Waypoint> AllWaypoints = new List<Waypoint>();
 
 		bool occupied;
+		Vector3 position;
+
+		public Waypoint(Vector3 position)
+		{
+			this.position = position;
+			AllWaypoints.Add(this);
+		}
+
+		public Waypoint(float x, float y, float z)
+		{
+			this.position = new Vector3(x, y, z);
+			AllWaypoints.Add(this);
+		}
+
+		~Waypoint()
+		{
+			AllWaypoints.Remove(this);
+		}
 
 		public bool IsOccupied
 		{
@@ -23,9 +41,17 @@ namespace Jesse.AI
 			}
 		}
 
-		private void Awake()
+		public Vector3 Position
 		{
-			AllWaypoints = FindObjectsOfType<Waypoint>().ToList().Where(x => x != this).ToList();
+			get
+			{
+				return position;
+			}
+
+			set
+			{
+				position = value;
+			}
 		}
 
 		public Waypoint NextWaypoint()
@@ -37,26 +63,33 @@ namespace Jesse.AI
 				if (w != this && !w.IsOccupied)
 				{
 					float check;
-					if ((check = Vector3.Distance(this.transform.position, w.transform.position)) < distance)
+					if ((check = Vector3.Distance(position, w.position)) < distance)
 					{
 						distance = check;
 						closest = w;
 					}
 				}
 			}
-			this.IsOccupied = false;
+			IsOccupied = false;
 			closest.IsOccupied = true;
 			return closest;
 		}
 
-		public Waypoint RandomWaypointInRange(Vector3 position, float range, Waypoint currentWaypoint = null)
+		/// <summary>
+		/// Returns a random waypoint from the list of all waypoints in the scene that is within range of a position.
+		/// </summary>
+		/// <param name="position">The Vector3 that acts as the center of the search area.</param>
+		/// <param name="range">The range or distance to be searched for waypoints from the center position.</param>
+		/// <param name="currentWaypoint">Pass in a waypoint to set it's IsOccupied property to false. </param>
+		/// <returns>The chosen random waypoint in range.</returns>
+		public static Waypoint RandomWaypointInRange(Vector3 position, float range, Waypoint currentWaypoint = null)
 		{
 			if (AllWaypoints != null)
 			{
 				List<Waypoint> inRange = new List<Waypoint>();
 				foreach (Waypoint w in AllWaypoints)
 				{
-					if (!w.IsOccupied && Vector3.Distance(position, w.transform.position) < range)
+					if (!w.IsOccupied && Vector3.Distance(position, w.position) < range)
 					{
 						inRange.Add(w);
 					}
@@ -76,16 +109,12 @@ namespace Jesse.AI
 			return null;
 		}
 
-		private void OnDestroy()
+		public static Waypoint CreateInRange(Vector3 center, float range, bool snapYTo0 = true)
 		{
-			if (AllWaypoints != null)
-			{
-				if (AllWaypoints.Contains(this))
-				{
-					AllWaypoints.Remove(this);
-				}
-			}
+			Vector3 v = Random.insideUnitSphere * range;
+			if (snapYTo0)
+				v.y = 0;
+			return new Waypoint(v.x, v.y, v.z);
 		}
-
 	}
 }

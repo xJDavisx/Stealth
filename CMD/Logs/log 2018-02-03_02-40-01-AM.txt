@@ -1,0 +1,48 @@
+[2/3/2018 2:39:41 AM] Refreshed Commands in 0.027 seconds
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint (6)') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint (5)') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint (4)') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint (8)') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint (3)') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint (7)') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint (2)') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint (9)') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:41 AM] GameObject (named 'Waypoint (1)') references runtime script in scene file. Fixing!
+[2/3/2018 2:39:41 AM] The class named 'Jesse.AI.Waypoint' is not derived from MonoBehaviour or ScriptableObject!
+[2/3/2018 2:39:42 AM] UnityException: Tag: GuardWaypoint is not defined.
+[2/3/2018 2:39:42 AM] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[2/3/2018 2:39:42 AM] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[2/3/2018 2:39:42 AM] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[2/3/2018 2:39:42 AM] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[2/3/2018 2:39:42 AM] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[2/3/2018 2:39:42 AM] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+[2/3/2018 2:39:42 AM] AudioManager used: GameManager.
+Instance ID: 10708
+[2/3/2018 2:39:42 AM] EnemyStateManager used: GameManager.
+Instance ID: 10712
+[2/3/2018 2:39:42 AM] ConsoleManager used: GameManager.
+Instance ID: 10714
+[2/3/2018 2:39:42 AM] BGMManager used: Audio Source.
+Instance ID: 10804
+[2/3/2018 2:39:42 AM] GameUI used: Canvas.
+Instance ID: 10946
+[2/3/2018 2:39:42 AM] SettingsMenu used: Canvas.
+Instance ID: 10958
+[2/3/2018 2:39:42 AM] ThirdPersonCameraController used: Main Camera.
+Instance ID: 11308

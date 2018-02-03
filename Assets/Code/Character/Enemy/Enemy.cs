@@ -34,10 +34,18 @@ namespace Jesse.Character
 		public Waypoint waypoint;
 
 		public float waypointReachedDistance = 1f;
+		private float searchRange = 20;
 
 		protected override void Awake()
 		{
 			base.Awake();
+			SpeedChanged += Enemy_SpeedChanged;
+		}
+
+		private void Enemy_SpeedChanged(Character sender, SpeedChangedEventArgs e)
+		{
+			navAgent.speed = e.NewSpeed;
+			navAgent.isStopped = Speed > 0 ? false : true;
 		}
 
 		protected override void Start()
@@ -48,6 +56,11 @@ namespace Jesse.Character
 			audioManager = Manager.GetManager<AudioManager>();
 			enemyStateManager = Manager.GetManager<EnemyStateManager>();
 			enemyStateManager.EnemyStateChanged += EnemyStateChanged;
+		}
+
+		protected override void FixedUpdate()
+		{
+
 		}
 
 		[CMDCommandButton("Alert")]
@@ -77,7 +90,7 @@ namespace Jesse.Character
 		{
 			StopAllCoroutines();
 			navAgent.isStopped = true;
-			navAgent.speed = RunSpeed;
+			Speed = RunSpeed - 2;
 			StartCoroutine(ChaseRoutine());
 		}
 
@@ -93,14 +106,14 @@ namespace Jesse.Character
 		public virtual void Search()
 		{
 			StopAllCoroutines();
-			navAgent.speed = WalkSpeed;
+			Speed = WalkSpeed * .75f;
 			StartCoroutine(SearchRoutine());
 		}
 
 		public virtual void Normal()
 		{
 			StopAllCoroutines();
-			navAgent.speed = WalkSpeed;
+			Speed = WalkSpeed;
 			StartCoroutine(NormalRoutine());
 		}
 
@@ -131,10 +144,23 @@ namespace Jesse.Character
 			SpottedTarget?.Invoke(this, new SpottedTargetEventArgs());
 		}
 
+		public float SearchRange
+		{
+			get
+			{
+				return searchRange;
+			}
+			set
+			{
+				searchRange = value;
+			}
+		}
+
 		protected override void OnDestroy()
 		{
 			SpottedTarget = null;
 			GlobalLastKnownPosition = Vector3.zero;
+			SpeedChanged -= Enemy_SpeedChanged;
 			base.OnDestroy();
 		}
 	}

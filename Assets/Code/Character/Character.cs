@@ -34,13 +34,13 @@ namespace Jesse.Character
 
 		private Vector3 direction;
 
-		private float maxViewDistance;
-		private float minViewDistance;
-		private float viewDistance;
+		private float maxViewDistance = 12;
+		private float minViewDistance = 6;
+		private float viewDistance = 6;
 
-		private float maxViewAngle;
-		private float minViewAngle;
-		private float viewAngle;
+		private float maxViewAngle = 90;
+		private float minViewAngle = 70;
+		private float viewAngle = 80;
 
 		private float maxHealth = 100;
 		private float health = 100;
@@ -52,7 +52,6 @@ namespace Jesse.Character
 
 		private bool disabled;
 
-		public float moveSpeed = 7;
 		public float smoothMoveTime = .1f;
 		public float turnSpeed = 8;
 
@@ -163,7 +162,7 @@ namespace Jesse.Character
 			{
 				float old = viewDistance;
 				viewDistance = Mathf.Clamp(value, MinViewDistance, MaxViewDistance);
-				ViewDistanceChanged?.Invoke(this, new ViewDistanceChangedEventArgs(old, health));
+				ViewDistanceChanged?.Invoke(this, new ViewDistanceChangedEventArgs(old, viewDistance));
 			}
 		}
 

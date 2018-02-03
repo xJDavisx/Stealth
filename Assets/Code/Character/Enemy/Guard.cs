@@ -12,15 +12,39 @@ namespace Jesse.Character
 
 		[Header("Guard Values")]
 		[SerializeField]
-		public Light spotlight;
+		Light spotlight;
 
-
+		static List<Waypoint> GuardWaypoints;
 
 		protected override void Start()
 		{
 			base.Start();
-			ViewAngle = spotlight.spotAngle;
+			if (GuardWaypoints == null)
+				FindGuardWaypoints();
+			ViewAngleChanged += Guard_ViewAngleChanged;
+			ViewDistanceChanged += Guard_ViewDistanceChanged;
+			ViewAngle = MinViewAngle;
+			ViewDistance = MinViewDistance;
 			Normal();
+		}
+
+		private void FindGuardWaypoints()
+		{
+			GuardWaypoints = new List<Waypoint>();
+			foreach (GameObject go in GameObject.FindGameObjectsWithTag("GuardWaypoint"))
+			{
+				GuardWaypoints.Add(new Waypoint(go.transform.position));
+			}
+		}
+
+		private void Guard_ViewDistanceChanged(Character sender, ViewDistanceChangedEventArgs e)
+		{
+			spotlight.range = e.NewViewDistance;
+		}
+
+		private void Guard_ViewAngleChanged(Character sender, ViewAngleChangedEventArgs e)
+		{
+			spotlight.spotAngle = e.NewViewAngle;
 		}
 
 		protected override void Update()
@@ -40,6 +64,7 @@ namespace Jesse.Character
 
 				if (playerVisibleTimer >= timeToSpotPlayer)
 				{
+					//TODO: add some sort of slow motion effect when an enemy spots the player.
 					OnSpottedTarget();
 					localLastKnownPosition = target.Position;
 					Chase();
@@ -64,22 +89,27 @@ namespace Jesse.Character
 				}
 			}
 		}
+
 		protected override void OnDestroy()
 		{
+			ViewDistanceChanged -= Guard_ViewDistanceChanged;
+			ViewAngleChanged -= Guard_ViewAngleChanged;
 			base.OnDestroy();
 		}
 
 		protected override IEnumerator NormalRoutine()
 		{
+			ViewAngle = MinViewAngle;
+			ViewDistance = MinViewDistance;
 			while (true)
 			{
 				if (waypoint == null)
 				{
-					waypoint = FindObjectOfType<Waypoint>();
+					waypoint = GuardWaypoints[Random.Range(0, GuardWaypoints.Count)];
 					waypoint = waypoint.NextWaypoint();
 				}
-				navAgent.SetDestination(waypoint.transform.position);
-				while (Vector3.Distance(transform.position, waypoint.transform.position) > waypointReachedDistance)
+				navAgent.SetDestination(waypoint.Position);
+				while (Vector3.Distance(transform.position, waypoint.Position) > waypointReachedDistance)
 				{
 					yield return new WaitForSeconds(.5f);
 				}
@@ -97,6 +127,8 @@ namespace Jesse.Character
 
 		protected override IEnumerator ChaseRoutine()
 		{
+			ViewAngle = MaxViewAngle;
+			ViewDistance = MaxViewDistance;
 			yield return new WaitForSeconds(UnityEngine.Random.Range(.5f, 1f));
 			navAgent.isStopped = false;
 			while (true)
@@ -116,7 +148,24 @@ namespace Jesse.Character
 
 		protected override IEnumerator SearchRoutine()
 		{
-			yield return null;
+			ViewAngle = MinViewAngle + ((MaxViewAngle - MinViewAngle) * .5f);
+			ViewDistance = MinViewDistance + ((MaxViewDistance - MinViewDistance) * .5f);
+			navAgent.isStopped = true;
+			yield return new WaitForSeconds(UnityEngine.Random.Range(.5f, 1f));
+			navAgent.isStopped = false;
+			while (true)
+			{
+				Waypoint w = Waypoint.CreateInRange(GlobalLastKnownPosition, SearchRange);
+				NavMeshPath p = new NavMeshPath();
+				if (!navAgent.CalculatePath(w.Position, p))
+					continue;
+				navAgent.path = p;
+				while (Vector3.Distance(transform.position, w.Position) > waypointReachedDistance)
+				{
+					yield return new WaitForSeconds(.5f);
+				}
+				yield return new WaitForSeconds(UnityEngine.Random.Range(1f, 2f));
+			}
 		}
 	}
 

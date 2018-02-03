@@ -1,0 +1,15 @@
+[2/3/2018 2:47:51 AM] Refreshed Commands in 0.028 seconds
+[2/3/2018 2:48:35 AM] AudioManager used: GameManager.
+Instance ID: 10708
+[2/3/2018 2:48:35 AM] EnemyStateManager used: GameManager.
+Instance ID: 10712
+[2/3/2018 2:48:35 AM] ConsoleManager used: GameManager.
+Instance ID: 10714
+[2/3/2018 2:48:35 AM] BGMManager used: Audio Source.
+Instance ID: 10804
+[2/3/2018 2:48:35 AM] GameUI used: Canvas.
+Instance ID: 10946
+[2/3/2018 2:48:35 AM] SettingsMenu used: Canvas.
+Instance ID: 10958
+[2/3/2018 2:48:35 AM] ThirdPersonCameraController used: Main Camera.
+Instance ID: 11308

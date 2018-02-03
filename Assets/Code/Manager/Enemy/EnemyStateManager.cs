@@ -111,7 +111,7 @@ namespace Jesse.Managers
 				case EnemyState.Normal:
 					break;
 				case EnemyState.Searching:
-					CautionTime -= Time.deltaTime * speedMultipier;
+					CautionTime -= Time.deltaTime * (speedMultipier * .5f);
 					gameUI.SetAlertTime(CautionTime);
 					break;
 				case EnemyState.Chasing:
